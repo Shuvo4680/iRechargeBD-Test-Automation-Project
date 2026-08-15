@@ -1,6 +1,6 @@
 # 📱 iRechargeBD Automation Testing Framework
 
-A Selenium-based Test Automation Framework for [iRechargeBD](https://www.irechargebd.com/) built using **Python**, **Pytest**, and the **Page Object Model (POM)** design pattern.
+A Selenium-based Test Automation Framework for [iRechargeBD](https://www.irechargebd.com/) built using **Python**, **Pytest** & the **Page Object Model (POM)** design pattern.
 
 ---
 
