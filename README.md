@@ -2,8 +2,6 @@
 
 A Selenium-based Test Automation Framework for [iRechargeBD](https://www.irechargebd.com/) built using **Python**, **Pytest**, and the **Page Object Model (POM)** design pattern.
 
-Structured after the [Daraz Automation Testing Framework](https://github.com/Saif-AlSaad/Test-Automation-Daraz-), adapted for iRechargeBD's mobile recharge / API platform.
-
 ---
 
 ## 🚀 Technologies Used
