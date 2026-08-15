@@ -205,10 +205,4 @@ python -m pytest -q
 
 ---
 
-# Author
-
-**Based on the structure of** [Test-Automation-Daraz-](https://github.com/Saif-AlSaad/Test-Automation-Daraz-) by Saif Al Saad
-
----
-
 ⭐ If you found this project useful, don't forget to Star this repository.
